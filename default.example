@@ -1,0 +1,9 @@
+app:
+  twilio:
+    accountSid: ""
+    authToken: ""
+    urlStr: ""
+    defaultToNumber: ""
+    toPhoneNumber: ""
+    fromNumber: ""
+    appUrl: ""
